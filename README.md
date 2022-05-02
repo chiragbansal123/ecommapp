@@ -21,7 +21,7 @@ It's a simple E-commerce application in react, it fetchs products from fakeserve
 ## Deployment
 
 
-  https://emart1.herokuapp.com/
+  https://ecommerceapp184.herokuapp.com/
 ```
 
 
