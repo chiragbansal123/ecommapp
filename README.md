@@ -28,7 +28,7 @@ It's a simple E-commerce application in react, it fetchs products from fakeserve
 To run this project run
 
 ```bash
-  git clone https://github.com/NavnathGunjal07/E-Mart-ReactJS.git
+  git clone https://github.com/chiragbansal123/ecommapp.git
 ```
 Go to directory
 ```bash
