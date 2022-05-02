@@ -1,5 +1,5 @@
 
-# E-Mart App
+# E-commerce App
 
 It's a simple E-commerce application in react, it fetchs products from fakeserver.
 ## Authors
@@ -25,25 +25,8 @@ It's a simple E-commerce application in react, it fetchs products from fakeserve
 ```
 
 
-To run this project run
 
-```bash
-  git clone https://github.com/chiragbansal123/ecommapp.git
-```
-Go to directory
-```bash
-  cd e-mart
-```
-Install all dependecies
-```bash
- npm install
-```
-Run Project
-```bash
-  npm start
-```
 
-Now you can access  on localhost:3000 
 ## Folder Structure
  
  
